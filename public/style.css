@@ -1,0 +1,64 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+}
+h1{
+    color: black;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.form-label{
+    color: rgb(0, 0, 0);
+}
+.hlines{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.items{
+    font-size: 4rem;
+    text-align: center;
+    vertical-align: middle;
+    width: 90px;
+    height: 90px;
+    border: 1px solid blue;
+    background-color: white(0, 0, 0);
+}
+
+
+#loginpage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .logincontainer {
+    background-color: white;
+    border-radius: 0.25rem;
+    padding: 2rem;
+    box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.1);
+  }
+#gameBoardpage{
+    height: 90vh;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+#notification{
+    width: 60%;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+.names{
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+
+
+
+

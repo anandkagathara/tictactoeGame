@@ -1,0 +1,92 @@
+body{
+    background-repeat: no-repeat;
+    background-size: 100% 110%;
+}
+h1{
+    color: black;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.form-label{
+    color: rgb(0, 0, 0);
+}
+.hlines{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.items{
+    font-size: 4rem;
+    text-align: center;
+    vertical-align: middle;
+    width: 90px;
+    height: 90px;
+    border: 1px solid blue;
+    background-color: white;
+}
+
+
+.logincontainer{
+    width: 40%;
+    margin: auto;
+    padding: 2% 1%;
+}
+#loginpage{
+    height: 90vh;
+    display: flex;
+    flex-direction: column;
+}
+#gameBoardpage{
+    height: 90vh;
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+#notification{
+    width: 60%;
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+.names{
+    text-align: center;
+    color: white;
+    font-size: 1.5rem;
+}
+
+
+
+
+   <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+    integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD"
+    crossorigin="anonymous"
+  />
+
+
+
+
+
+
+
+
+    // "scripts": {
+  //   "tsc-init": "tsc --init",
+  //   "tsc-w": "tsc --w",
+  //   "start": "nodemon dist/index.js"
+  // },
+
+  
+
+    "scripts": {
+    "tsc-init": "tsc --init",
+    "tsc-w": "tsc --w",
+    "start": "nodemon dist/index.js"
+  },
+
+  
+
+  
