@@ -1,2 +1,3 @@
-# tictactoeGame
-Technology : NodeJS / MongoDB / SocketIO
+FrontEnd : HTML / CSS / JS 
+BackEnd : NodeJs / SocketIO 
+DB : MongoDB
